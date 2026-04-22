@@ -1,0 +1,19 @@
+{
+    "short_name": "Spiti",
+    "name": "Spiti",
+    "icons": [
+        {
+            "src": "images/icons/logo-full-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "splash_pages": null,
+    "background_color": "#fff",
+    "orientation": "portrait",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "http://localhost:8002",
+    "prefer_related_applications": true,
+    "theme_color": "#f44336"
+}
